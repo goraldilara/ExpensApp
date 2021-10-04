@@ -1,0 +1,64 @@
+﻿@model CommonArea.EmployeeCommon
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SB Admin - Login</title>
+    <!-- Custom fonts for this template-->
+    <link href="~/Content/css/all.min.css" rel="stylesheet" type="text/css">
+    <!-- Custom styles for this template-->
+    <link href="~/Content/css/sb-admin.css" rel="stylesheet">
+</head>
+<body class="bg-dark" style="background-color:powderblue;">
+    <br /><br /><br /><br />
+    <div class="container">
+        <div class="card card-login mx-auto mt-5">
+            <div align="center" class="card-header" color="purple"><h1><b>MASRAF UYGULAMASI</b></h1></div>
+            <div class="card-body">
+                @using (Html.BeginForm("Homepage", "Home", FormMethod.Post, new { @id = "LoginForm" }))
+                {
+                    <form type="Post">
+                        <div class="form-group">
+                            <div class="form-label-group">
+
+                                @Html.TextBoxFor(Model => Model.Username, new { @class = "form-control", @placeholder = "Kullanıcı Adı", @required = "required", @autofocus = "autofocus"})
+                                
+                                <label for="Username">Kullanıcı Adı</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-label-group">
+
+                                @Html.PasswordFor(Model => Model.Password, new { @class = "form-control", @placeholder = "Kullanıcı Adı", @required = "required", @autofocus = "autofocus" })
+
+
+                                <label for="inputPassword">Şifre</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="checkbox">
+                            </div>
+                        </div>
+                        <button type="submit" name="btn btn-primary btn-block" href="/Homepage">Giriş Yap</button>  
+                    </form>
+                }
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+</body>
+</html>
+

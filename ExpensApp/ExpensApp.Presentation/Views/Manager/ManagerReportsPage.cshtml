@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = null;
+}
+@model CommonArea.MultipleModel2
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="~/Content/css/GridSheetforFillExpenseFormPage.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>ManagerReportsPage</title>
+</head>
+<body>
+    <div>
+        <h1 align="center">YÖNETİCİ RAPOR SAYFASI</h1>
+    </div>
+    <div class="container">
+        <div class="row col-md-6 col-md-offset-2 custyle">
+            <table class="table table-striped custab">
+                <tr>
+                    <td>Form Tarihi/td>
+                    <td>Çalışan Ad Soyad</td>
+                    <td>Toplam Masraf Tutarı</td>
+                    <td>Onay/Ödendi Durumu</td>
+                </tr>
+                @{
+                    int counter = 0;
+                    foreach (var item in Model.listForForms)
+                    {
+                        var item2 = Model.listForEmployees[counter];
+
+                        <tr>
+                            <td>@item.Date.ToString("dd/MM/yyyy")</td>
+                            <td>@item2.Name @item2.Surname</td>
+                            <td>@item.TotalAmount</td>
+                            <td>@item.Status</td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>
+    </div>
+</body>
+</html>

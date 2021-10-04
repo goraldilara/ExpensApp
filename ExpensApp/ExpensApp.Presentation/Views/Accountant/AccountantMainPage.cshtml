@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AccountantMainPage</title>
+</head>
+<body>
+    <div> 
+        <br />
+        @Html.ActionLink("Ödeme Bekleyen Masraflar", "PayingExpensePage", "Accountant")
+        <br />
+        @Html.ActionLink("Raporlar", "AccountantReportsPage", "Accountant")
+        <br />
+        @Html.ActionLink("Çıkış Yap", "Logout", "Home");
+    </div>
+</body>
+</html>

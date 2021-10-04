@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+}
+@model CommonArea.MultipleModel3
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="~/Content/css/GridSheetforFillExpenseFormPage.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+</head>
+<body>
+    <div>
+        <h1>MASRAF DETAY FORMLARI</h1>
+    </div>
+    <div>
+        <p>Çalışan Adı ve Soyadı @Model.employee.Name @Model.employee.Surname</p>
+        <p>Çalışan Email Adresi @Model.employee.Email</p>
+    </div>
+
+    @*Printing expenses and total amount to the screen*@
+    @{
+        int TotalAmount = 0;
+        <p align="center"><b>Masraflar:</b></p>
+                <div class="container">
+                    <div class="row col-md-6 col-md-offset-2 custyle">
+                        <table class="table table-striped custab">
+                            <tr>
+                                <th>Masraf Türü</th>
+                                <th>Masraf Zamanı</th>
+                                <th>Masraf Açıklaması</th>
+                                <th>Masraf Tutarı</th>
+                            </tr>
+                            @foreach (var item in Model.listForExpenses)
+            {
+                                <tr>
+                                    <td>@item.Type</td>
+                                    <td>@item.Date.ToString("dd/MM/yyyy") </td>
+                                    <td>@item.Explanation</td>
+                                    <td>@item.Cost</td>
+                                    @{
+                                        TotalAmount += item.Cost;
+                                    }
+                                </tr>
+                                        }
+                        </table>
+                    </div>
+                </div>
+    }
+    <br /><p align="center"><b>Total Amount : @TotalAmount</b></p>
+    <div>
+        @using (Html.BeginForm("UpdateForm", "Manager", FormMethod.Post, new { FormId = Model.listForExpenses.First().FormID , Status = "Onaylandı" }))
+        {
+            <button type="submit" name="btn btn-primary btn-block" ><h6><b>ONAYLA</b></h6></button>
+        }
+        @using (Html.BeginForm("UpdateForm", "Manager", FormMethod.Post, new { FormId = Model.listForExpenses.First().FormID , Status = "Onaylanmadı" }))
+        {
+            <button type="submit" name="btn btn-primary btn-block" ><h6><b>REDDET</b></h6></button>
+        }
+    </div>
+</body>
+</html>

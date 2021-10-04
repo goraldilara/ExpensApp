@@ -1,0 +1,26 @@
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.csprojResolveAssemblyReference.cache
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.Business.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.Business.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\CommonArea.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.DataAccess.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\EntityFramework.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\CommonArea.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.DataAccess.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.DataAccess.dll.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\bin\Debug\EntityFramework.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.Business.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.Business.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\CommonArea.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.DataAccess.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\CommonArea.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.DataAccess.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\ExpensApp.DataAccess.dll.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.csprojAssemblyReference.cache
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.csproj.CopyComplete
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Business\obj\Debug\ExpensApp.Business.pdb

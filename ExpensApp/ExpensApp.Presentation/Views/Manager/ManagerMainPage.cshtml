@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ManagerMainPage</title>
+</head>
+<body>
+    <div> 
+        <br />
+        @Html.ActionLink("Onay Bekleyen Masraf Formları", "ApprovingExpenseFormPage", "Manager")
+        <br />
+        @Html.ActionLink("Raporlar", "ManagerReportsPage", "Manager")
+        <br />
+        @Html.ActionLink("Çıkış Yap", "Logout", "Home");
+    </div>
+</body>
+</html>

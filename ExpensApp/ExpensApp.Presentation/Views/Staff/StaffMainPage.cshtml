@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StaffMainPage</title>
+</head>
+<body>
+    <div> 
+        <br />
+        @Html.ActionLink("Masraf Formu Doldur", "FillingExpenseFormPage","Staff")
+        <br />
+        @Html.ActionLink("Gönderilmiş Masraf Formları", "ExpenseFormsPage", "Staff")
+        <br />
+        @Html.ActionLink("Raporlar", "StaffReportsPage", "Staff")
+        <br />
+        @Html.ActionLink("Çıkış Yap", "Logout", "Home");
+    </div>
+</body>
+</html>

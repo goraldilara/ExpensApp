@@ -1,0 +1,22 @@
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\ExpensApp.DataAccess.dll.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\ExpensApp.DataAccess.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\ExpensApp.DataAccess.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\ExpensApp.DataAccess.dll.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\ExpensApp.DataAccess.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\ExpensApp.DataAccess.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.csproj.CopyComplete
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.DataAccess\obj\Debug\ExpensApp.DataAccess.pdb

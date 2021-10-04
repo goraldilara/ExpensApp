@@ -1,0 +1,114 @@
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\csc.exe
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\csc.exe.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\csc.rsp
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\csi.exe
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\csi.rsp
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.AppContext.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\vbc.exe
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\vbc.exe.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\vbc.rsp
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\VBCSCompiler.exe
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Presentation.dll.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Presentation.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Presentation.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Helpers.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Mvc.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Razor.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Deployment.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Razor.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Razor.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Deployment.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Razor.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Helpers.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\System.Web.Mvc.xml
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.csprojResolveAssemblyReference.cache
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\CommonArea.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Business.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.DataAccess.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\EntityFramework.dll
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\CommonArea.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Business.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.DataAccess.pdb
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.DataAccess.dll.config
+c:\users\dilara.goral\documents\visual studio 2017\Projects\ExpensApp\ExpensApp.Presentation\bin\EntityFramework.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\csc.exe
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\csc.exe.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\csc.rsp
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\csi.exe
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\csi.rsp
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\vbc.exe
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\vbc.rsp
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Presentation.dll.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Presentation.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Presentation.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\CommonArea.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Business.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Helpers.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Mvc.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Razor.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.DataAccess.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\EntityFramework.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\CommonArea.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.Business.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Razor.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Helpers.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\System.Web.Mvc.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.DataAccess.pdb
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\ExpensApp.DataAccess.dll.config
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\bin\EntityFramework.xml
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.csprojAssemblyReference.cache
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.csproj.CopyComplete
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.dll
+C:\Users\Dilara\Desktop\masraf\ExpensApp\ExpensApp.Presentation\obj\Debug\ExpensApp.Presentation.pdb

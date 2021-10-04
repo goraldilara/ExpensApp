@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CommonArea\\Helper",
+    "\\CommonArea\\Views",
+    "\\ExpensApp.DataAccess",
+    "\\ExpensApp.DataAccess\\Concrete",
+    "\\ExpensApp.DataAccess\\Concrete\\EntityFramework",
+    "\\ExpensApp.DataAccess\\Concrete\\EntityFramework\\Repository",
+    "\\ExpensApp.Presentation",
+    "\\ExpensApp.Presentation\\Controllers",
+    "\\ExpensApp.Presentation\\Filter",
+    "\\ExpensApp.Presentation\\Views"
+  ],
+  "SelectedNode": "\\ExpensApp.Presentation\\Views\\Staff\\FillingExpenseFormPage.cshtml",
+  "PreviewInSolutionExplorer": false
+}

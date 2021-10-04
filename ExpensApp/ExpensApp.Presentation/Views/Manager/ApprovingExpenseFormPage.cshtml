@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+@model CommonArea.MultipleModel2
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="~/Content/css/GridSheetforFillExpenseFormPage.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>ApprovingExpenseFormPage</title>
+</head>
+<body>
+    <div>
+        <h1>ONAY BEKLEYEN MASRAF FORMLARI</h1>
+    </div>
+
+    <div class="container">
+        <div class="row col-md-6 col-md-offset-2 custyle">
+            <table class="table table-striped custab" id="formTable">
+                <tr>
+                    <th>Form Tarihi</th>
+                    <th>Çalışan Ad Soyad</th>
+                    <th>Toplam Masraf Tutarı</th>
+                    <th>Aksiyonlar</th>
+                </tr>
+                @{
+                    int counter = 0;
+                    foreach (var item in Model.listForForms)
+                    {
+                        var item2 = Model.listForEmployees[counter];
+                        
+                            <tr id="@item.FormID">
+                                <td>@item.Date.ToString("dd/MM/yyyy")</td>
+                                <td>@item2.Name @item2.Surname</td>
+                                <td>@item.TotalAmount</td>
+                                <td><a class="btn btn-primary" href="@Url.Action("ManagerDetailPage", new { FormId = item.FormID, EmployeeId = item.EmployeeID })">Detay</a></td>
+                            </tr>
+                        
+                    }
+                }
+            </table>
+        </div>
+    </div>
+</body>
+</html>

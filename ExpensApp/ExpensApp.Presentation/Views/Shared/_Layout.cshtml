@@ -1,0 +1,43 @@
+﻿
+<DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ONAY BEKLEYEN FORMLAR</title>
+    <link rel="stylesheet" href="~/Content/css/layout.css" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>ONAY BEKLEYEN FORMLAR</h1>
+        </header>
+        <nav>
+            <ul class="informations">
+                <li> buraya view bag gelecek</li>
+                <li> veya href de gelebilir </li>
+            </ul>
+        </nav>
+    </div>
+    <div id="sidebar">
+        <div class="toggle-btn" onclick="toggleSidebar()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <ul class="categories">
+            <li>Home</li>
+            <li>Sad</li>
+            <li>Girl</li>
+        </ul>
+    </div>
+    <br/>
+    <hr/>
+    <div class="container body-content">@RenderBody()
+        <hr />
+        <footer>
+            <p align="center" color="black">Masraf Uygulaması</p>
+        </footer>
+    </div>
+</body>
+</html>
